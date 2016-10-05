@@ -3,7 +3,7 @@ Quantitative Modelling
 Some Quantitative Modelling projects using Python
 
 #FT
-The Python code was generated through modifying published Matlab model.
+The Python codes were generated through modifying published Matlab model.
 
 Leal Valentim F, Mourik Sv, Posé D, Kim MC, Schmid M, van Ham RC, Busscher M, 
 Sanchez-Perez GF, Molenaar J, Angenent GC, Immink RG, van Dijk AD. A quantitative
