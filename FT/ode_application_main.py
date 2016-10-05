@@ -8,7 +8,7 @@ import importlib.util
 import os
 
 # set working directory
-path='D:\\Dropbox\\PythonModelling\\SourceForPlosONE\\'
+path='D:\\Dropbox\\PythonModelling\\FT\\'
 # path='C:\\Users\\lxue\\Dropbox\\PythonModelling\\FT\\'
 os.chdir(path)
 # loading parameter values
